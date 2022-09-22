@@ -80,7 +80,10 @@
 
 *This material is licensed under CC BY-NC-ND. This license allows reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator.*
 
-*CC BY-NC-ND includes the following elements:
-BY – Credit must be given to the creator
-NC – Only non-commercial uses of the work are permitted
-ND – No derivatives or adaptations of the work are permitted*
+*CC BY-NC-ND includes the following elements:*
+
+*BY – Credit must be given to the creator*
+
+*NC – Only non-commercial uses of the work are permitted*
+
+*ND – No derivatives or adaptations of the work are permitted*
