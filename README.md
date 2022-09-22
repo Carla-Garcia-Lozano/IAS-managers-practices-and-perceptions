@@ -6,7 +6,7 @@
 
 ![](images/number_ias.PNG)
 
-![](images/num.png =5x)
+<img src="images/num.png" width="600" align="center">
 
 ### Area of IAS
 
