@@ -6,25 +6,25 @@
 
 ![](images/number_ias.PNG)
 
-![](images/Number of IAS-1.png)
+![](images/num.PNG)
 
 ### Area of IAS
 
 ![](images/area_ias.PNG)
 
-![](images/Area of IAS-1.png)
+![](images/area.PNG)
 
 ### Impacts of IAS
 
 ![](images/impacts_ias.PNG)
 
-![](images/Impacts of IAS-1.png)
+![](images/imp.PNG)
 
 ### Impacts on biodiversity
 
 ![](images/impacts_bd_ias.PNG)
 
-![](images/Impacts on biodiversity-1.png)
+![](images/imp_bd.PNG)
 
 ## Management measures
 
