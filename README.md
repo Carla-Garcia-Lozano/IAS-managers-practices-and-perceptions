@@ -36,7 +36,7 @@
 
 ### Number of measures implemented
 
-<img src="images/measures_implemented_n.PNG" width="700">
+<img src="images/measures_implemented_n.PNG" width="600">
 
 ## Perceptions
 
@@ -72,10 +72,12 @@
 
 ### Area managed and managers experience
 
-<img src="images/area_managers.PNG" width="700">
+<img src="images/area_managers.PNG" width="600">
+
 *From left to right: protection of the area, size of the area, the affiliation of the managers and years' experience of the managers.*
 
 ---
+
 *This material is licensed under CC BY-NC-ND. This license allows reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator.*
 
 *CC BY-NC-ND includes the following elements:
