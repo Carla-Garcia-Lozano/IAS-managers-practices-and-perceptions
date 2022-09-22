@@ -12,19 +12,19 @@
 
 ![](images/area_ias.PNG)
 
-![](images/area.png)
+<img src="images/area.png" width="600" align="center">
 
 ### Impacts of IAS
 
 ![](images/impacts_ias.PNG)
 
-![](images/imp.png)
+<img src="images/imp.png" width="600" align="center">
 
 ### Impacts on biodiversity
 
 ![](images/impacts_bd_ias.PNG)
 
-![](images/imp_bd.png)
+<img src="images/imp_bd.png" width="600" align="center">
 
 ## Management measures
 
