@@ -72,7 +72,8 @@
 
 ### Area managed and managers experience
 
-![From left to right: protection of the area, size of the area, the affiliation of the managers and years' experience of the managers.](images/area_managers.PNG)
+![](images/area_managers.PNG)
+*From left to right: protection of the area, size of the area, the affiliation of the managers and years' experience of the managers.*
 
 ---
 *This material is licensed under CC BY-NC-ND. This license allows reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator.*
