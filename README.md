@@ -32,11 +32,11 @@
 
 ### Measures implemented
 
-![](images/management_measures_canva.PNG)
+<img src="images/management_measures_canva.PNG" width="600">
 
 ### Number of measures implemented
 
-![](images/measures_implemented_n.PNG)
+<img src="images/measures_implemented_n.PNG" width="700">
 
 ## Perceptions
 
@@ -46,7 +46,7 @@
 
 ![](images/research.PNG)
 
-![](images/limitations.PNG)
+<img src="images/limitations.PNG" width="600">
 
 # Context-related questions
 
@@ -68,11 +68,11 @@
 
 ### Environment
 
-![](images/environment.PNG)
+<img src="images/environment.PNG" width="700">
 
 ### Area managed and managers experience
 
-![](images/area_managers.PNG)
+<img src="images/area_managers.PNG" width="700">
 *From left to right: protection of the area, size of the area, the affiliation of the managers and years' experience of the managers.*
 
 ---
