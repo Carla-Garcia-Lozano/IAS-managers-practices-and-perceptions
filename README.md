@@ -88,7 +88,7 @@ The project is conducted within the framework of the international research proj
 
 ### Area managed and managers experience
 
-<img src="images/area_managers.PNG" width="600">
+<img src="images/area_managers.PNG" width="10000">
 
 *From left to right: protection of the area, size of the area, the affiliation of the managers and years' experience of the managers. Categories are named in the clockwise direction.*
 
