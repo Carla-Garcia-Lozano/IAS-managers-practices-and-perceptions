@@ -1,6 +1,6 @@
 # The management of invasive alien species: practices and perceptions
----------------------------------------------------------------------
-Preliminary results of the survey about management and perceptions launched on February 2022 to understand local managers on IAS practices and perceptions in Europe.
+
+Preliminary results of the survey launched on February 2022 to understand what trends for invasive alien species have emerged in Europe over the last few years based on the experience of local managers.
 
 The survey was composed of 29 questions, some related to the management of invasive alien species and others context-related questions about the area managed and the respondent's profile. The results shown here are based on 1925 responses across 41 European countries. If you would like to respond to the survey, please [click here](https://www.1ka.si/a/348996).
 
@@ -8,7 +8,8 @@ Thank you very much for your contribution.
 
 **About us**
 
-The project is conducted within the framework of the international research project [AlienScenarios](https://alien-scenarios.org/)whose aim is to explore potential future scenarios for IAS trends in the 21st century and provide crucial information for proactive IAS management and policies. The AlienScenarios project is funded by the joint call for research proposals 2017-2018 Belmont Forum and BiodivERsA, under the BiodivScen ERA-Net COFUND program.
+The project is conducted within the framework of the international research project [AlienScenarios](https://alien-scenarios.org/) whose aim is to explore potential future scenarios for IAS trends in the 21st century and provide crucial information for proactive IAS management and policies. The AlienScenarios project is funded by the joint call for research proposals 2017-2018 Belmont Forum and BiodivERsA, under the BiodivScen ERA-Net COFUND program.
+
 ---------------------------------------------------------------------
 
 # Management-related questions
